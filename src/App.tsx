@@ -63,7 +63,7 @@ export function App() {
         <header className="topbar">
           <div>
             <p className="eyebrow">Qualifier Dashboard</p>
-            <h1>Learning operations at a glance</h1>
+            <h1>Learning operations at a glance - Team Atheena</h1>
           </div>
 
           <label className="searchBox">
